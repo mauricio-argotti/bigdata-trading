@@ -5,3 +5,4 @@ sphinx-thebe
 sphinx-kroki
 Pillow
 PyYAML
+jsonschema<4.18
