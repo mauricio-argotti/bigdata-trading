@@ -1,6 +1,9 @@
 format: jb-book
 root: es/intro
 parts:
+  - caption: Curso Big Data Trading
+    chapters:
+    - file: es/03_big_data/01_big_data
   - caption: Tutorial
     chapters:
     - file: es/01_tutorial/01_que_es_un_teachbook
