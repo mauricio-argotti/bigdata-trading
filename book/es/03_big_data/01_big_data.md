@@ -6,6 +6,15 @@
 
 ## Introducción
 
+```{figure} 01_big_data_images/1. Big Data.png
+---
+width: 90%
+name: fig-intro-big-data
+align: center
+---
+Introducción al Big Data y Análisis Multivariante.
+```
+
 
 La creciente digitalización de los mercados financieros ha generado un ecosistema caracterizado por volúmenes masivos de datos, latencias reducidas y una diversidad creciente de fuentes de información. Este fenómeno, ampliamente documentado en la literatura reciente, ha impulsado el desarrollo de modelos predictivos basados en Big Data y aprendizaje automático para anticipar el movimiento direccional del precio de activos financieros. Sin embargo, la proliferación de modelos cada vez más complejos —como redes neuronales profundas, LSTM o Transformers— ha introducido un nuevo desafío: la pérdida de interpretabilidad y la dificultad para justificar decisiones de inversión basadas en modelos opacos. 
 
@@ -14,6 +23,15 @@ En paralelo, diversos estudios han demostrado que la acción del precio (price a
 Este TeachBook propone un enfoque alternativo: modelos parsimoniosos, interpretables y estadísticamente robustos, construidos a partir de análisis multivariante y técnicas de selección de variables aplicadas a grandes volúmenes de datos. El objetivo es proporcionar un marco metodológico que permita a traders cuantitativos, gestores de activos y equipos de investigación construir modelos predictivos que no solo sean precisos, sino también explicables y defendibles ante comités de riesgo, reguladores y revisores académicos. 
 
 ## **PANORAMA DE LOS MODELOS PREDICTIVOS** 
+
+```{figure} 01_big_data_images/2. Problema Actual.png
+---
+width: 90%
+name: fig-problema-actual
+align: center
+---
+Panorama actual de los modelos predictivos.
+```
 
 El mundo de los mercados financieros ha experimentado un cambio significativo con la llegada de la era de los datos masivos y la tecnología de aprendizaje automático. La capacidad de procesar grandes cantidades de datos en tiempo real ha permitido a los modelos predictivos mejorar su precisión y eficacia en la predicción de precios y detección de patrones de mercado. Sin embargo, la complejidad de estos datos y la falta de interpretabilidad de estos modelos plantean nuevos desafíos para los analistas y los inversores. 
 
@@ -58,6 +76,15 @@ Por otra parte, los estudios sugieren que el futuro de la predicción financiera
 El uso de Big Data en los mercados financieros ha evolucionado de forma acelerada en la última década, impulsado por la digitalización de las operaciones bursátiles, la proliferación de fuentes de datos no estructurados y el avance de la computación de alto rendimiento. Hoy, las instituciones financieras, desde bancos de inversión hasta hedge funds cuantitativos, dependen de infraestructuras capaces de procesar volúmenes masivos de información en tiempo real para obtener ventajas competitivas en predicción, gestión de riesgos y ejecución algorítmica. En este contexto, las clásicas tres V del Big Data adquieren características específicas en el ámbito financiero, donde los requisitos técnicos y analíticos son especialmente exigentes. 
 
 ## **1.1.1. Las tres V del Big Data financiero** 
+
+```{figure} 01_big_data_images/3. Torbellino Big-Data.png
+---
+width: 90%
+name: fig-torbellino-big-data
+align: center
+---
+El torbellino del Big Data en finanzas.
+```
 
 - **Volumen** : millones de observaciones intradía y datos alternativos. 
 
@@ -197,7 +224,14 @@ Esta estructura refleja cómo, en un entorno dominado por Big Data, la ventaja c
 
 Figura 1.1 Arquitectura conceptual del flujo de datos en los mercados financieros 
 
-**==> picture [468 x 199] intentionally omitted <==**
+```{figure} 01_big_data_images/4. Flujo de datos Mercados.png
+---
+width: 90%
+name: fig-flujo-datos
+align: center
+---
+Arquitectura conceptual del flujo de datos en los mercados financieros.
+```
 
 ## **a. Capa de adquisición y fuentes de datos (Volumen y Variedad)** 
 
@@ -239,7 +273,14 @@ Las variables primarias representan el corazón cuantitativo del análisis. Son 
 
 Figura 1.2.1. Variables Primarias 
 
-**==> picture [468 x 217] intentionally omitted <==**
+```{figure} 01_big_data_images/6. Variables primarias.png
+---
+width: 90%
+name: fig-variables-primarias
+align: center
+---
+Variables Primarias.
+```
 
 Esta imagen muestra la arquitectura de las variables primarias útiles para capturar la información relevante con la microestructura del mercado. El análisis de las medidas demostró que con un número de periodos de 18 periodos previos al punto de inflexión ET, permite obtener resultados satisfactorios. 
 
@@ -450,7 +491,14 @@ La literatura contemporánea sobre predicción del movimiento direccional de los
 
 Figura 1.2.2. Problemas estructurales en la formulación de modelos predictivos. 
 
-**==> picture [469 x 224] intentionally omitted <==**
+```{figure} 01_big_data_images/7. Problemas Estructurales.png
+---
+width: 90%
+name: fig-problemas-estructurales
+align: center
+---
+Problemas estructurales en la formulación de modelos predictivos.
+```
 
 ## **1. Falta de interpretabilidad en los modelos predictivos** 
 
