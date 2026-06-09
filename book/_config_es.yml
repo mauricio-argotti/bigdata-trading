@@ -1,13 +1,11 @@
 title: |
-  Elaboración de libros
-  electrónicos mediante
-  código y asistentes de
-  Inteligencia Artificial
-author: Álvaro Lozano Murciego y André Filipe Sales Mendes
+  Big Data y Análisis Multivariante
+  para la Predicción de Mercados
+author: Mauricio Argotti
 copyright: "2026"
 logo: "_static/logo.png"
 language: es
-exclude_patterns: ["_build", "Thumbs.db", ".DS_Store", "**.ipynb_checkpoints", "_build_*", "en/", "temp_build_*", "latex_templates*", "_TRASH*"]
+exclude_patterns: ["_build", "Thumbs.db", ".DS_Store", "**.ipynb_checkpoints", "_build_*", "en/", "temp_build_*", "latex_templates*", "_TRASH*", "es/01_tutorial/*", "es/02_grados/*", "es/03_ejemplos_transversales/*", "es/04_ejemplos_otros_libros/*", "es/05_contenidos_basicos/*", "es/06_interactividad/*", "es/07_publicacion_web/*", "es/90_acerca_de.md", "es/91_licencias.md", "es/92_como_citar.md"]
 execute:
   execute_notebooks: off
 parse:
@@ -50,12 +48,11 @@ latex_docclass:
 latex:
   latex_engine: xelatex
   options: "spanish"
-  subtitle: "Curso para las Facultades de Ciencias y de Ciencias Químicas"    # Opcional: subtítulo del libro
+  subtitle: "Curso Avanzado"
   header_title: |
-    Elaboración de libros electrónicos
-    con código e IA
-  institution: "Universidad de Salamanca"  # Opcional
-  edition: "1ª Edición"               # Opcional
+    Big Data y Análisis Multivariante
+  institution: "Universidad"
+  edition: "1ª Edición"
   cover_logo: "_static/usal_logo.png"  # Logo de la portada PDF; el logo web se configura arriba en `logo`
   # isbn: "978-84-XXXXX-XX-X"         # Opcional: descomentar cuando se tenga
   doi: "10.5281/zenodo.20449102"

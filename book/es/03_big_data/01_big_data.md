@@ -6,7 +6,7 @@
 
 ## Introducción
 
-```{figure} 01_big_data_images/1. Big Data.png
+```{figure} 01_big_data_images/1._Big_Data.png
 ---
 width: 90%
 name: fig-intro-big-data
@@ -24,7 +24,7 @@ Este TeachBook propone un enfoque alternativo: modelos parsimoniosos, interpreta
 
 ## **PANORAMA DE LOS MODELOS PREDICTIVOS** 
 
-```{figure} 01_big_data_images/2. Problema Actual.png
+```{figure} 01_big_data_images/2._Problema_Actual.png
 ---
 width: 90%
 name: fig-problema-actual
@@ -77,7 +77,7 @@ El uso de Big Data en los mercados financieros ha evolucionado de forma acelerad
 
 ## **1.1.1. Las tres V del Big Data financiero** 
 
-```{figure} 01_big_data_images/3. Torbellino Big-Data.png
+```{figure} 01_big_data_images/3._Torbellino_Big-Data.png
 ---
 width: 90%
 name: fig-torbellino-big-data
@@ -224,7 +224,7 @@ Esta estructura refleja cómo, en un entorno dominado por Big Data, la ventaja c
 
 Figura 1.1 Arquitectura conceptual del flujo de datos en los mercados financieros 
 
-```{figure} 01_big_data_images/4. Flujo de datos Mercados.png
+```{figure} 01_big_data_images/4._Flujo_de_datos_Mercados.png
 ---
 width: 90%
 name: fig-flujo-datos
@@ -273,7 +273,7 @@ Las variables primarias representan el corazón cuantitativo del análisis. Son 
 
 Figura 1.2.1. Variables Primarias 
 
-```{figure} 01_big_data_images/6. Variables primarias.png
+```{figure} 01_big_data_images/6._Variables_primarias.png
 ---
 width: 90%
 name: fig-variables-primarias
@@ -491,7 +491,7 @@ La literatura contemporánea sobre predicción del movimiento direccional de los
 
 Figura 1.2.2. Problemas estructurales en la formulación de modelos predictivos. 
 
-```{figure} 01_big_data_images/7. Problemas Estructurales.png
+```{figure} 01_big_data_images/7._Problemas_Estructurales.png
 ---
 width: 90%
 name: fig-problemas-estructurales

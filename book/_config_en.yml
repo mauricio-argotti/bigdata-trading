@@ -1,13 +1,11 @@
 title: |
-  Creating Electronic Books
-  with Code and
-  Artificial Intelligence
-  Assistants
-author: Álvaro Lozano Murciego and André Filipe Sales Mendes
+  Big Data and Multivariate Analysis
+  for Market Prediction
+author: Mauricio Argotti
 copyright: "2026"
 logo: "_static/logo.png"
 language: en
-exclude_patterns: ["_build", "Thumbs.db", ".DS_Store", "**.ipynb_checkpoints", "_build_*", "es/","temp_build_*", "latex_templates*", "_TRASH*"]
+exclude_patterns: ["_build", "Thumbs.db", ".DS_Store", "**.ipynb_checkpoints", "_build_*", "es/", "temp_build_*", "latex_templates*", "_TRASH*", "en/01_tutorial/*", "en/02_degrees/*", "en/03_cross_disciplinary_examples/*", "en/04_examples_from_other_books/*", "en/05_basic_content/*", "en/06_interactivity/*", "en/07_web_publication/*", "en/90_about.md", "en/91_licenses.md", "en/92_how_to_cite.md"]
 execute:
   execute_notebooks: off
 parse:
@@ -50,11 +48,10 @@ latex_docclass:
 latex:
   latex_engine: xelatex
   options: "english"
-  subtitle: "Course for the Faculties of Sciences and Chemical Sciences"       # Optional
+  subtitle: "Advanced Course"
   header_title: |
-    Creating electronic books
-    with code and AI
-  institution: "Universidad de Salamanca"  # Optional
+    Big Data and Multivariate Analysis
+  institution: "University"
   edition: "1st Edition"                # Optional
   cover_logo: "_static/usal_logo.png"  # PDF cover logo; the web logo is configured above in `logo`
   # isbn: "978-84-XXXXX-XX-X"          # Optional
